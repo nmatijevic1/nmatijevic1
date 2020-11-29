@@ -8,5 +8,6 @@ Current role: iOS @vivyHealth
 
 Here are some ideas to get you started:
 
+- 🏗 Building a small corona widget for Montenegro🇲🇪 as a learning project for WidgetKit.
 - 🌱 I’m currently looking for a navigation solution to decouple views in SwiftUI without using UIKit
 - 💬 Ask me about CLEAN, Swift or anything related to Apple platform dev.
